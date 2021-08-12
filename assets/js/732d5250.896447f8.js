@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_code_documentation=self.webpackChunkin_code_documentation||[]).push([[9668],{1758:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"incode","name":"incode","count":1,"permalink":"/blog/tags/incode"}')}}]);

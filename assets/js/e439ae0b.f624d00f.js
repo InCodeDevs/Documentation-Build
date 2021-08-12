@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_code_documentation=self.webpackChunkin_code_documentation||[]).push([[3334],{4098:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"willkommen","name":"willkommen","count":1,"permalink":"/blog/tags/willkommen"}')}}]);

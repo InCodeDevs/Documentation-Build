@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_code_documentation=self.webpackChunkin_code_documentation||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Willkommen","permalink":"/blog/willkommen"}]}')}}]);
